@@ -12,7 +12,7 @@ Before being able to take the exam, learners have to first complete the CWES lea
 
 The time required for the completion of the learning path will vary from one learner to another depending mainly on their technical knowledge and the time invested daily. According to HTB, the learning path can be completed within 21 days and 6 hours when dedicating 8 hours per day to the modules.    
 
-That said, I do recommend not rushing through it and making sure you understand what you’re being taught. Moreover, if possible, try to do the skills assessment without hints or writeups. This will help you build your methodology and develop your creativity. However, if you’re stuck after some time (1 or 2 hours), you can use [HTB academy forum](https://forum.hackthebox.com/c/content/academy/21) where other learners give hints without disclosing the entire solution. This will help you feel the gaps in your methodology.  
+That said, I do recommend not rushing through it and making sure you understand what you’re being taught. Moreover, if possible, try to do the skills assessment without hints or writeups. This will help you build your methodology and develop your creativity. However, if you’re stuck after some time, you can use [HTB academy forum](https://forum.hackthebox.com/c/content/academy/21) where other learners give hints without disclosing the entire solution. This will help you feel the gaps in your methodology.  
 
 <img width="1317" height="757" alt="image" src="https://github.com/user-attachments/assets/c038eda1-aae3-422e-a36d-66d30c6a270c" />
 
