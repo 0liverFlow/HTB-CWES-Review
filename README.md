@@ -34,7 +34,7 @@ Here are some tips and tricks that I found helpful during my journey:
 - Do each module’s skill assessment twice if you want more preparation before taking the exam. You can also do CTFs but personally, I found the skills assessment to be more useful.
 - Enumerate each application thoroughly before jumping straight to exploitation. Understanding your attack surface will help you attack your target strategically. Furthermore, whenever you’re stuck, just do more enumeration, make new hypotheses, test them, and tweak them.
 - Read the scope carefully, and make sure to follow it.
-- Take notes and screenshots as you test the applications. This will help you stay organized and save a tremendous amount of time during the reporting phase. I recommend referring to the “Documentation & Reporting” module if you would like to learn more about writing professional reports.
+- Take notes and screenshots as you test the applications. This will help you stay organized and save a tremendous amount of time during the reporting phase. I recommend referring to the “[Documentation & Reporting](https://academy.hackthebox.com/app/module/162)” module if you would like to learn more about writing professional reports.
 - Use [HTB Academy SysReptor](https://github.com/Syslifters/HackTheBox-Reporting) templates for the report writing if you don’t have one.
 - Here are some Firefox extensions that I found helpful: [cookie-editor](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/), [wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/), [firefox mutli-account container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [foxy proxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
 
@@ -54,3 +54,4 @@ Overall, I really enjoyed the CWES. The course material was well written and the
 - [HTB Academy Forum](https://forum.hackthebox.com/c/content/academy/21)
 - [HTB Academy SysReptor](https://github.com/Syslifters/HackTheBox-Reporting)
 - [CWES Exam Information](https://academy.hackthebox.com/app/exams/2?tab=Overview#the-exam)
+- [HTB Documentation & Reporting](https://academy.hackthebox.com/app/module/162)
